@@ -1,0 +1,1 @@
+export {default as WidgetCallForPapers} from './WidgetCallForPapers'
